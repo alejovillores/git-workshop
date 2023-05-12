@@ -1,2 +1,4 @@
 soy la persona B y este texto es mio
 cambio de la persona 1
+
+sigo agregando informacion...
